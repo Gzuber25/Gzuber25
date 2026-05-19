@@ -5,7 +5,7 @@
     <b>
       Full Stack Developer
       <br>
-      Hi, my name is Giovanna Zuñiga!
+      Hi, my name is Giovanna Bernal!
       <br>
     </b>
   </samp>
