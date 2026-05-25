@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Full Stack Developer
+      Full-Stack Developer
       <br>
       Hi, my name is Giovanna Zuñiga!
       <br>
